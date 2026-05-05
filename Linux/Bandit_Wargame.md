@@ -17,4 +17,4 @@ Goal: Log into the game server and find the password for the next level.
 * find: Used to find a file or directory based on name, size, etc.
 
 ### Level 1 Password
-ZjLjTmm6FvvyRnrb2rfNWOZOTa6ip5If
+************5If
